@@ -1,0 +1,14 @@
+{
+  "name": "eightball",
+  "version": "1.0.0",
+  "description": "Magic 8 ball app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "karl",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.3.1"
+  }
+}
